@@ -27,7 +27,8 @@ ___
 
 | Example Input | Example Output |
 | --- | --- |
-|  | We love kriii |
+|  | 강한친구 대한육군 |
+|  | 강한친구 대한육군 |
 
 ___
 
