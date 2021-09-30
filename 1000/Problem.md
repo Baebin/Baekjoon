@@ -1,4 +1,4 @@
-## **개**
+## **A+B**
 
 | Time Limit | Memory Limit |
 | --- | --- |
@@ -38,6 +38,6 @@ https://www.acmicpc.net/problem/1000
 ___
 
 ## Blog
-https://blog.naver.com/baebine
+https://blog.naver.com/baebine/222522503653
 
 ___
