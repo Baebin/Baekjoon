@@ -1,4 +1,4 @@
-## **A+B**
+## **A×B**
 
 | Time Limit | Memory Limit |
 | --- | --- |
@@ -39,6 +39,6 @@ https://www.acmicpc.net/problem/10998
 ___
 
 ## Blog
-https://blog.naver.com/baebine/
+https://blog.naver.com/baebine/222524609998
 
 ___
