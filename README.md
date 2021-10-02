@@ -38,7 +38,7 @@ ___
 
 ## 3. Steps to Solve Problems
 
-- Step 1.
+- Step 1. [I/O and The Four Fundamental Arithmetic Operation](https://www.acmicpc.net/step/1)
   1. [2557: Hello World](https://github.com/Baebin/Baekjoon/tree/main/2557)
   2. [10718: We love kriii](https://github.com/Baebin/Baekjoon/tree/main/10718)
   3. [10171: Cat](https://github.com/Baebin/Baekjoon/tree/main/10171)
