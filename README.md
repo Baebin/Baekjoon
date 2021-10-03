@@ -47,6 +47,7 @@ ___
   5. [1000: A+B](https://github.com/Baebin/Baekjoon/tree/main/1000)
   6. [1000: A-B](https://github.com/Baebin/Baekjoon/tree/main/1001)
   7. [10998: A×B](https://github.com/Baebin/Baekjoon/tree/main/10998)
+  8. [1008: A/B](https://github.com/Baebin/Baekjoon/tree/main/1008)
 
 ___
 
