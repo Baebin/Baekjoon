@@ -1,21 +1,25 @@
-## **A/B**
+## **The Four Fundamental Arithmetic Operation**
 
 | Time Limit | Memory Limit |
 | --- | --- |
-| 2 Seconds | 128 MB |
+| 1 Second | 256 MB |
 
 ___
 
 ## Problem
 Print
 ```
-A/B
+A+B
+A-B
+A*B
+A/B(Quotient)
+A%B
 ```
 
 ___
 
 ## Input
-A B (0 < A, B < 10)
+A B (1 ≤ A, B ≤ 10,000)
 
 ___
 
@@ -42,6 +46,6 @@ https://www.acmicpc.net/problem/10869
 ___
 
 ## Blog
-https://blog.naver.com/baebine/
+https://blog.naver.com/baebine/222526748337
 
 ___
