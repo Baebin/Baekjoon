@@ -48,6 +48,7 @@ ___
   6. [1000: A-B](https://github.com/Baebin/Baekjoon/tree/main/1001)
   7. [10998: A×B](https://github.com/Baebin/Baekjoon/tree/main/10998)
   8. [1008: A/B](https://github.com/Baebin/Baekjoon/tree/main/1008)
+  9. [10869: The Four Fundamental Arithmetic Operation](https://github.com/Baebin/Baekjoon/tree/main/10869)
 
 ___
 
