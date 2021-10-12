@@ -1,4 +1,4 @@
-## **The Four Fundamental Arithmetic Operation**
+## **The Rest**
 
 | Time Limit | Memory Limit |
 | --- | --- |
@@ -43,6 +43,6 @@ https://www.acmicpc.net/problem/10430
 ___
 
 ## Blog
-https://blog.naver.com/baebine/
+https://blog.naver.com/baebine/222534976293
 
 ___
