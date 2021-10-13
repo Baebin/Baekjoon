@@ -18,10 +18,10 @@ ___
 
 ## Output
 ```
-a*(b%10));
-a*((b/10)%10));
-a*(b/100));
-%d\n", a*b);
+a*(b%10);
+a*((b/10)%10);
+a*(b/100);
+a*b;
 ```
 
 ___
@@ -38,6 +38,6 @@ https://www.acmicpc.net/problem/2588
 ___
 
 ## Blog
-https://blog.naver.com/baebine/
+https://blog.naver.com/baebine/222536091332
 
 ___
