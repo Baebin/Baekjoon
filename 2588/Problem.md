@@ -7,7 +7,7 @@
 ___
 
 ## Problem
-![image](https://user-images.githubusercontent.com/63220297/137127447-05a9be8c-3d88-4050-9ff7-6ab8c3f112f9.png)
+![2588](https://user-images.githubusercontent.com/63220297/137127873-8634b8b1-f311-423d-93e2-f22ed995a0bc.png)
 
 ___
 
