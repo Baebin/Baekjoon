@@ -11,8 +11,9 @@ ___
 
 ___
 
-## Input
-A B C (2 ≤ A, B, C ≤ 10000)
+## Input (Three Digits)
+A
+B
 ___
 
 ## Output
