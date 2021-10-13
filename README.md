@@ -50,6 +50,7 @@ ___
   8. [1008: A/B](https://github.com/Baebin/Baekjoon/tree/main/1008)
   9. [10869: The Four Fundamental Arithmetic Operation](https://github.com/Baebin/Baekjoon/tree/main/10869)
   10. [10430: The Rest](https://github.com/Baebin/Baekjoon/tree/main/10430)
+  11. [2588: Multiplication](https://github.com/Baebin/Baekjoon/tree/main/2588)
 
 ___
 
