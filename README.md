@@ -51,7 +51,7 @@ ___
   9. [10869: The Four Fundamental Arithmetic Operation](https://github.com/Baebin/Baekjoon/tree/main/10869)
   10. [10430: The Rest](https://github.com/Baebin/Baekjoon/tree/main/10430)
   11. [2588: Multiplication](https://github.com/Baebin/Baekjoon/tree/main/2588)
-- **Step 2. [If](https://www.acmicpc.net/step/2)**
+- **Step 2. [If](https://www.acmicpc.net/step/4)**
   1. [1330: Compare Two Numbers](https://github.com/Baebin/Baekjoon/tree/main/1330)
 
 ___
