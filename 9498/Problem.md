@@ -19,7 +19,7 @@ A
 ___
 
 ## Output
-| Condition | Output |
+| Input | Output |
 | --- | --- |
 | 90 ~ 100 | A |
 | 80 ~ 89 | B |
