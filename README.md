@@ -53,6 +53,7 @@ ___
   11. [2588: Multiplication](https://github.com/Baebin/Baekjoon/tree/main/2588)
 - **Step 2. [If](https://www.acmicpc.net/step/4)**
   1. [1330: Compare Two Numbers](https://github.com/Baebin/Baekjoon/tree/main/1330)
+  2. [9498: Test Score](https://github.com/Baebin/Baekjoon/tree/main/9498)
 
 ___
 
