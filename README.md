@@ -55,6 +55,7 @@ ___
   1. [1330: Compare Two Numbers](https://github.com/Baebin/Baekjoon/tree/main/1330)
   2. [9498: Test Score](https://github.com/Baebin/Baekjoon/tree/main/9498)
   3. [2753: Leap Year](https://github.com/Baebin/Baekjoon/tree/main/2753)
+  4. [14681: Quadrant](https://github.com/Baebin/Baekjoon/tree/main/14681)
 
 ___
 
