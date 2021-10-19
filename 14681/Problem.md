@@ -13,7 +13,7 @@ Print the quadrant.
 
 ___
 
-## Input (-1000 ≤ A, B ≤ 1000; A ≠ 0)
+## Input (-1000 ≤ A, B ≤ 1000; A, B ≠ 0)
 A
 B
 
