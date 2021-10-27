@@ -56,6 +56,7 @@ ___
   2. [9498: Test Score](https://github.com/Baebin/Baekjoon/tree/main/9498)
   3. [2753: Leap Year](https://github.com/Baebin/Baekjoon/tree/main/2753)
   4. [14681: Quadrant](https://github.com/Baebin/Baekjoon/tree/main/14681)
+  5. [2884: Alarm](https://github.com/Baebin/Baekjoon/tree/main/2884)
 
 ___
 
