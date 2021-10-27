@@ -1,4 +1,4 @@
-## **Quadrant**
+## **Alarm**
 
 | Time Limit | Memory Limit |
 | --- | --- |
