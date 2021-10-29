@@ -57,7 +57,9 @@ ___
   3. [2753: Leap Year](https://github.com/Baebin/Baekjoon/tree/main/2753)
   4. [14681: Quadrant](https://github.com/Baebin/Baekjoon/tree/main/14681)
   5. [2884: Alarm](https://github.com/Baebin/Baekjoon/tree/main/2884)
-
+- **Step 3. [For](https://www.acmicpc.net/step/3)**
+  1. [2739: Times Table](https://github.com/Baebin/Baekjoon/tree/main/2884)
+  2. [10950: A+B - 3](https://github.com/Baebin/Baekjoon/tree/main/10950)
 ___
 
 ## 5. All Code Posted on Github
