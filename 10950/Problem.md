@@ -14,7 +14,7 @@ Print A+B
 ___
 
 ## Input (0＜ A, B＜ 10)
-T
+T</br>
 A B
 
 ___
@@ -44,6 +44,6 @@ https://www.acmicpc.net/problem/10950
 ___
 
 ## Blog
-https://blog.naver.com/baebine/
+https://blog.naver.com/baebine/222552745130
 
 ___
