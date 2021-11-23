@@ -60,6 +60,7 @@ ___
 - **Step 3. [For](https://www.acmicpc.net/step/3)**
   1. [2739: Times Table](https://github.com/Baebin/Baekjoon/tree/main/2739)
   2. [10950: A+B - 3](https://github.com/Baebin/Baekjoon/tree/main/10950)
+  3. [8393: Sum](https://github.com/Baebin/Baekjoon/tree/main/8393)
 ___
 
 ## 5. All Code Posted on Github
