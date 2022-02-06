@@ -61,6 +61,10 @@ ___
   1. [2739: Times Table](https://github.com/Baebin/Baekjoon/tree/main/2739)
   2. [10950: A+B - 3](https://github.com/Baebin/Baekjoon/tree/main/10950)
   3. [8393: Sum](https://github.com/Baebin/Baekjoon/tree/main/8393)
+  4. [15552: Fast A+B](https://github.com/Baebin/Baekjoon/tree/main/15552)
+  5. [2741: Print up to N](https://github.com/Baebin/Baekjoon/tree/main/2741)
+  6. [2742: Print up to N (Reverse)](https://github.com/Baebin/Baekjoon/tree/main/2742)
+  7. [11021: Print up to N (Beauty)](https://github.com/Baebin/Baekjoon/tree/main/11021)
 ___
 
 ## 5. All Code Posted on Github
