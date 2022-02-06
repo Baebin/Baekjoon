@@ -46,6 +46,6 @@ https://www.acmicpc.net/problem/15552
 ___
 
 ## Blog
-https://blog.naver.com/baebine/
+https://blog.naver.com/baebine/222640524109
 
 ___
