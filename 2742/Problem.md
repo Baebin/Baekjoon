@@ -37,7 +37,7 @@ ___
 ___
 
 ## Link
-https://www.acmicpc.net/problem/2741
+https://www.acmicpc.net/problem/2742
 
 ___
 
