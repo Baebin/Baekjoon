@@ -14,6 +14,7 @@ Print the numbers (1 ~ N).
 ___
 
 ## Input (1 ≤ N ≤ 100,000)
+```
 N
 A B
 A B
@@ -24,11 +25,11 @@ ___
 
 ## Output
 ```
-Case #1: A + B
-Case #2: A + B
-Case #3: A + B
+Case #1: $(A + B)
+Case #2: $(A + B)
+Case #3: $(A + B)
 ...
-Case #N: A + B
+Case #N: $(A + B)
 ```
 
 ___
