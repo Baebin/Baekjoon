@@ -24,11 +24,11 @@ ___
 
 ## Output
 ```
-1
-2
-3
+Case #1: A + B
+Case #2: A + B
+Case #3: A + B
 ...
-N
+Case #N: A + B
 ```
 
 ___
