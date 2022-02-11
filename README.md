@@ -66,6 +66,9 @@ ___
   6. [2742: Print up to N (Reverse)](https://github.com/Baebin/Baekjoon/tree/main/2742)
   7. [11021: Print up to N (Beauty)](https://github.com/Baebin/Baekjoon/tree/main/11021)
   8. [11022: Print up to N (Beauty Plus)](https://github.com/Baebin/Baekjoon/tree/main/11022)
+  9. [2438: Print Stars (1)](https://github.com/Baebin/Baekjoon/tree/main/2438)
+  10. [2439: Print Stars (2)](https://github.com/Baebin/Baekjoon/tree/main/2439)
+  11. [10871: Number less than X](https://github.com/Baebin/Baekjoon/blob/main/10871)
 ___
 
 ## 5. All Code Posted on Github
