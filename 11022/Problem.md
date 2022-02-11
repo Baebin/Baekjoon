@@ -1,4 +1,4 @@
-## **Print up to N (Beauty Plus)**
+## **Print Stars (1)**
 
 | Time Limit | Memory Limit |
 | --- | --- |
@@ -8,49 +8,29 @@ ___
 
 ## Problem
 ```
-Print the numbers (1 ~ N).
+Print the stars (1 ~ N).
 ```
 
 ___
 
-## Input (1 ≤ N ≤ 100,000)
+## Input (1 ≤ N ≤ 100)
 ```
 N
-A B
-A B
-A B
-...
-```
-
-___
-
-## Output
-```
-Case #1: $A + $B = $(A+B)
-Case #2: $A + $B = $(A+B)
-Case #3: $A + $B = $(A+B)
-...
-Case #N: $A + $B = $(A+B)
 ```
 
 ___
 
 | Example Input | Example Output |
 | --- | --- |
-| 5 | |
-| 1 1 | Case #1: 1 + 1 = 2 |
-| 2 3 | Case #2: 2 + 3 = 5 |
-| 3 4 | Case #3: 3 + 4 = 7 |
-| 9 8 | Case #4: 9 + 8 = 17 |
-| 5 2 | Case #5: 5 + 2 = 7 |
+| 5 | *</br>**</br>***</br>****</br>***** |
 ___
 
 ## Link
-https://www.acmicpc.net/problem/11022
+https://www.acmicpc.net/problem/2438
 
 ___
 
 ## Blog
-https://blog.naver.com/baebine/222641445723
+https://blog.naver.com/baebine/222645231107
 
 ___
