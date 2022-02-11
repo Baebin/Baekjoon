@@ -8,7 +8,7 @@ ___
 
 ## Problem
 ```
-Print the stars (1 ~ N).
+Print the stars.
 ```
 
 ___
