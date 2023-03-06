@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nunebin)](https://solved.ac/nunebin/)
+
 # **Baekjoon**
 
 Baekjoon Problem Solving Space
